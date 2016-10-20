@@ -1,0 +1,14 @@
+{
+    "name": "nandwabee/kopokopo",
+    "description": "A PHP wrapper around the Kopokopo notification webhook",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bernard Nandwa",
+            "email": "nandwabee@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
